@@ -20,7 +20,7 @@
 </td>
 
 <td width="50%">
-               <br>
+
 <h3 align="center">Proximamente...</h3>
 <div align="center">                                       
 <a href="#" target="_blank"><img src="#" width="400" alt="Proximamente"></a>
