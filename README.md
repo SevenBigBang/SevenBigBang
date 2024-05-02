@@ -23,7 +23,7 @@
                <br>
 <h3 align="center">Proximamente...</h3>
 <div align="center">                                       
-<a href="#" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Proximamente"></a>
+<a href="#" target="_blank"><img src="#" width="400" alt="Proximamente"></a>
 <br>
 <p>
 <a href="https://github.com/SevenBigBang" target="_blank">
