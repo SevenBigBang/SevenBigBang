@@ -27,7 +27,7 @@
 <br>
 <p>
 <a href="https://github.com/SevenBigBang" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="#">
 </a>
                                                                                       
 </td>  
