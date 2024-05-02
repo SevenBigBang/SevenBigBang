@@ -10,7 +10,7 @@
 <td width="50%">
 <h3 align="center">Proyecto web para la ferreteria "G&M"</h3>
 <div align="center">
-<a href="https://github.com/SevenBigBang/ferreteria_gym" target="_blank"><img src="#" width="400" alt="SIPM"></a>
+<a href="https://github.com/SevenBigBang/ferreteria_gym" target="_blank"></a>
 <p>
 <a href="https://github.com/SevenBigBang/ferreteria_gym" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
