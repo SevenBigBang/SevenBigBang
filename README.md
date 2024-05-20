@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/SevenBigBang/COSAS/blob/9a1e06e6a080e668fa9528c55e19c570d95b90a5/baner.jpg)
+![Github Banner](https://github.com/SevenBigBang/COSAS/blob/main/baner.jpg)
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/cristhiancortes/">Cristhian Cortes</a> 👋</h1>
 </div>
