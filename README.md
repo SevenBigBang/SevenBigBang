@@ -27,7 +27,7 @@
 <a href="#" target="_blank"><img src="#" width="400" alt="Proximamente"></a>
 <br>
 <p>
-<a href="https://github.com/SevenBigBang" target="_blank">
+<a href="https://github.com/SevenBigBang/ferreteria_gym" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
                                                                                       
