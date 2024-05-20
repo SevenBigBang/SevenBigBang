@@ -13,11 +13,12 @@
 <div align="center">
 <a href="https://github.com/SevenBigBang/ferreteria_gym" target="_blank"></a>
 <p>
-<a href="https://github.com/SevenBigBang/ferreteria_gym" target="_blank">
-<img src="https://github.com/SevenBigBang/COSAS/blob/main/Ferreteria-G_M-y-1-p%C3%A1gina-m%C3%A1s-Perfil-1_-Microsoft_-Edge-2024-05-20-17-01-55.gif" alt="GIF" width="300">
-</a>
+<img src="https://github.com/SevenBigBang/COSAS/blob/main/Ferreteria-G_M-y-1-p%C3%A1gina-m%C3%A1s-Perfil-1_-Microsoft_-Edge-2024-05-20-17-01-55.gif" alt="GIF" width="300"
+
 </div>
-                                                                                      
+<a href="https://github.com/SevenBigBang/ferreteria_gym" target="_blank>
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>                                                                                      
 </td>
 
 <td width="50%">
