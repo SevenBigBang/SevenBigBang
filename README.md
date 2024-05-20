@@ -1,6 +1,6 @@
 ![Github Banner](https://github.com/SevenBigBang/COSAS/blob/main/baner.jpg)
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/cristhiancortes/">Cristhian Cortes</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/cristhiancortes/">Cristhian Cortes Ariza</a> 👋</h1>
 </div>
 
 <br>
@@ -14,7 +14,7 @@
 <a href="https://github.com/SevenBigBang/ferreteria_gym" target="_blank"></a>
 <p>
 <a href="https://github.com/SevenBigBang/ferreteria_gym" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://github.com/SevenBigBang/COSAS/blob/main/Ferreteria-G_M-y-1-p%C3%A1gina-m%C3%A1s-Perfil-1_-Microsoft_-Edge-2024-05-20-17-01-55.gif" alt="GIF" width="300">
 </a>
 </div>
                                                                                       
