@@ -24,7 +24,7 @@
 
 <h3 align="center">Python de Cero a Seven</h3>
 <div align="center">                                       
-<a href="https://github.com/SevenBigBang/COSAS/blob/main/De%20cero%20a%20seven.png" target="_blank"><img src="#" width="400" alt="Proximamente"></a>
+<img src="https://github.com/SevenBigBang/COSAS/blob/main/De cero a seven.png" alt="img" width="300"</a>
 <br>
 <p>
 
