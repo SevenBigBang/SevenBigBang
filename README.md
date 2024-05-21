@@ -6,56 +6,31 @@
 <br>
 
 ## Proyectos
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Proyecto web para la ferreteria "G&M"</h3>
-<div align="center">
-<img src="https://github.com/SevenBigBang/COSAS/blob/main/Ferreteria-G_M-y-1-p%C3%A1gina-m%C3%A1s-Perfil-1_-Microsoft_-Edge-2024-05-20-17-01-55.gif" alt="GIF" width="300"</a>
-<br>
-<p>
-<a href="https://github.com/SevenBigBang/ferreteria_gym" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>	
-</div>                                                                                 
-</td>
 
-<td width="50%">
-
-<h3 align="center">Python de Cero a Seven</h3>
-<div align="center">                                       
-<img src="https://github.com/SevenBigBang/COSAS/blob/main/De cero a seven.png" alt="img" width="300"</a>
-<br>
-<p>
-
-<a href="https://github.com/SevenBigBang/CursoPython" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-                                                                                      
-</td>  
-</table>                                                                                 
-</div>
-<br>
+| Proyecto web para la ferreteria "G&M" | Python de Cero a Seven (Curso) |
+| ------------------------------------- | ------------------------------ |
+| <div align="center"> <img src="https://github.com/SevenBigBang/COSAS/blob/main/Ferreteria-G_M-y-1-p%C3%A1gina-m%C3%A1s-Perfil-1_-Microsoft_-Edge-2024-05-20-17-01-55.gif" alt="GIF" width="300px"> </div> | <div align="center"> <img src="https://github.com/SevenBigBang/COSAS/blob/main/De%20cero%20a%20seven.png" alt="img" width="300px"> </div> |
+| <div align="center"> <a href="https://github.com/SevenBigBang/ferreteria_gym" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="icon" width="60px"> </a> </div> | <div align="center"> <a href="https://github.com/SevenBigBang/CursoPython" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="icon" width="60px"> </a> </div> |
 
 
 
 ## Who am I?
 
  ```python
-  class WhoAmI:
-    user = 'Jaydeep Yadav'
-	current_edu = "CSIT"
-    currently_learning = "Javascript"
-    fun_fact = "I hate Chillies"
+  class QuienSoy:
+    user = 'Cristhian Cortes'
+	current_edu = "SENA"
+    currently_learning = "Python"
+    fun_fact = "Soy malo para el picante"
 	hobbies = [
-				'Music',
-                         'Chilling',
+				'Musica',
+                         	'Boxeo',
 			 	'Gaming',
-				'Sci-Fi Movies'
+				'Anime'
 			]
 	
 	def getCity():
-		return Chhattisgarh_India()
+		return Bogota_Colombia()
 	
 	def Ambitions():
 		BecomeSoftwareEngineer()
