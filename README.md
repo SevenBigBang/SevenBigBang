@@ -52,7 +52,7 @@
 
 <br>
 
-## Programming Languages
+## Lenguajes de programación
 
 <p>
     <a href="#"><img alt="Python" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" heigth="50px" width="50px"></a>
@@ -62,7 +62,7 @@
 
 <br>
 
-## Frameworks and Libraries
+## Frameworks y Librarias
 <p>
    <a href="#"><img alt="Bootstrap" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" heigth="50px" width="50px"></a>
 
@@ -70,7 +70,7 @@
 
 <br>
 
-## Operating Systems
+## Systemas Operativos
 <p>
 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
 </p>
@@ -78,7 +78,7 @@
 
 <br>
 
-## Databases and Cloud hosting
+## Bases de datos 
 
 <p>
     <a href="#"><img alt="XAMPP" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" heigth="50px" width="50px"></a>
@@ -86,7 +86,7 @@
 
 <br>
 
-## Software and Tools
+## Aplicaciones y herramientas
 <p>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   <a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
@@ -94,7 +94,7 @@
 
 <br>
 
-## Connect with Me
+## Contacta conmigo
 
 
 <p align="center">
@@ -102,5 +102,6 @@
   <a href="https://github.com/SevenBigBang"><img alt="Github" title="Cristhian Cortes Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 <p align="center">
-  <a href="Correo electronico:cortescristiangerman@gmail.com"><img alt="Gmail" title="Cristhian Cortes Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:cortescristiangerman@gmail.com"><img alt="Gmail" title="Cristhian Cortes Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+
