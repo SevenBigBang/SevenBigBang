@@ -36,7 +36,7 @@
 </div>
 
 <div align="center">
-<h1 align="center"><b>PROYECTOS</b><a href="https://github.com/SevenBigBang/"></h1>
+<h1 align="center"><b>Proyectos</b><a href="https://github.com/SevenBigBang/"></h1>
 </div>
 <br>
 
