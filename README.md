@@ -6,36 +6,34 @@
 <br>
 
 ## Proyectos
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Proyecto web para la ferreteria "G&M"</h3>
-<div align="center">
-<img src="https://github.com/SevenBigBang/COSAS/blob/main/Ferreteria-G_M-y-1-p%C3%A1gina-m%C3%A1s-Perfil-1_-Microsoft_-Edge-2024-05-20-17-01-55.gif" alt="GIF" width="300"</a>
-<br>
-<p>
-<a href="https://github.com/SevenBigBang/ferreteria_gym" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>	
-</div>                                                                                 
-</td>
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 50%; border: 1px solid #ddd; padding: 20px;">
+      <h3 style="text-align: center;">Proyecto web para la ferretería "G&M"</h3>
+      <div style="text-align: center;">
+        <img src="https://github.com/SevenBigBang/COSAS/blob/main/Ferreteria-G_M-y-1-p%C3%A1gina-m%C3%A1s-Perfil-1_-Microsoft_-Edge-2024-05-20-17-01-55.gif" alt="GIF" width="300">
+        <br>
+        <p>
+          <a href="https://github.com/SevenBigBang/ferreteria_gym" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>	
+      </div>                                                                                 
+    </td>
 
-<td width="50%">
+    <td style="width: 50%; border: 1px solid #ddd; padding: 20px;">
+      <h3 style="text-align: center;">Python de Cero a Seven</h3>
+      <div style="text-align: center;">
+        <img src="https://github.com/SevenBigBang/COSAS/blob/main/De cero a seven.png" alt="img" width="300">
+        <br>
+        <p>
+          <a href="https://github.com/SevenBigBang/CursoPython" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+      </div>                                                                                      
+    </td>  
+  </tr>
+</table>
 
-<h3 align="center">Python de Cero a Seven</h3>
-<div align="center">                                       
-<img src="https://github.com/SevenBigBang/COSAS/blob/main/De cero a seven.png" alt="img" width="300"</a>
-<br>
-<p>
-
-<a href="https://github.com/SevenBigBang/CursoPython" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-                                                                                      
-</td>  
-</table>                                                                                 
-</div>
-<br>
 
 
 
