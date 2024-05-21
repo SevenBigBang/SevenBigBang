@@ -11,7 +11,7 @@
     <td style="width: 50%; border: 1px solid #ddd; padding: 20px;">
       <h3 style="text-align: center;">Proyecto web para la ferretería "G&M"</h3>
       <div style="text-align: center;">
-        <img src="https://github.com/SevenBigBang/COSAS/blob/main/Ferreteria-G_M-y-1-p%C3%A1gina-m%C3%A1s-Perfil-1_-Microsoft_-Edge-2024-05-20-17-01-55.gif" alt="GIF" width="300">
+        <img src="https://github.com/SevenBigBang/COSAS/blob/main/Ferreteria-G_M-y-1-p%C3%A1gina-m%C3%A1s-Perfil-1_-Microsoft_-Edge-		2024-05-20-17-01-55.gif" alt="GIF" width="300">
         <br>
         <p>
           <a href="https://github.com/SevenBigBang/ferreteria_gym" target="_blank">
