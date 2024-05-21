@@ -56,8 +56,6 @@
 
 <p>
     <a href="#"><img alt="Python" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" heigth="50px" width="50px"></a>
-    <a href="#"><img alt="CSS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" heigth="50px" width="50px"></a>
-    <a href="#"><img alt="HTML" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" heigth="50px" width="50px"></a>
 </p>
 
 <br>
