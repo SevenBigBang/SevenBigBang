@@ -1,11 +1,13 @@
-![Github Banner](https://github.com/SevenBigBang/COSAS/blob/main/baner.jpg)
+
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/cristhiancortes/">Cristhian Cortes Ariza</a> 👋</h1>
 </div>
-
 <br>
 
-## Proyectos
+<div align="center">
+<h1 align="center"><b>PROYECTOS</b><a href="https://github.com/SevenBigBang/"></h1>
+</div>
+<br>
 
 | Proyecto web para la ferreteria "G&M" | Python de Cero a Seven (Curso) |
 | ------------------------------------- | ------------------------------ |
