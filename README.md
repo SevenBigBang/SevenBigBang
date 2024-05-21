@@ -22,12 +22,13 @@
 
 <td width="50%">
 
-<h3 align="center">Proximamente...</h3>
+<h3 align="center">Python de Cero a Seven</h3>
 <div align="center">                                       
-<a href="#" target="_blank"><img src="#" width="400" alt="Proximamente"></a>
+<a href="https://github.com/SevenBigBang/COSAS/blob/main/De%20cero%20a%20seven.png" target="_blank"><img src="#" width="400" alt="Proximamente"></a>
 <br>
 <p>
-<a href="https://github.com/SevenBigBang/ferreteria_gym" target="_blank">
+
+<a href="https://github.com/SevenBigBang/CursoPython" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
                                                                                       
