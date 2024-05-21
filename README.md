@@ -50,6 +50,7 @@
 
 
 
+<br>
 
 ## Programming Languages
 
@@ -59,11 +60,15 @@
     <a href="#"><img alt="HTML" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" heigth="50px" width="50px"></a>
 </p>
 
+<br>
+
 ## Frameworks and Libraries
 <p>
    <a href="#"><img alt="Bootstrap" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" heigth="50px" width="50px"></a>
 
 </p>
+
+<br>
 
 ## Operating Systems
 <p>
@@ -71,17 +76,23 @@
 </p>
 
 
+<br>
+
 ## Databases and Cloud hosting
 
 <p>
     <a href="#"><img alt="XAMPP" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" heigth="50px" width="50px"></a>
 </p> 
 
+<br>
+
 ## Software and Tools
 <p>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   <a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
 </p>
+
+<br>
 
 ## Connect with Me
 
