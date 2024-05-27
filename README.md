@@ -47,10 +47,8 @@
 | <div align="center"> <a href="https://github.com/SevenBigBang/ferreteria_gym" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="icon" width="60px"> </a> </div> | <div align="center"> <a href="https://github.com/SevenBigBang/CursoPython" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="icon" width="60px"> </a> </div> |
 
 
-
-
-
 <br>
+
 
 ## Lenguajes de programación
 
@@ -60,7 +58,7 @@
 
 <br>
 
-## Frameworks y Librarias
+## Frameworks y Librerias
 <p>
    <a href="#"><img alt="Bootstrap" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" heigth="50px" width="50px"></a>
 
