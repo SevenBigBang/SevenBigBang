@@ -67,7 +67,7 @@
 
 <br>
 
-## Systemas Operativos
+## Sistemas Operativos
 <p>
 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
 </p>
