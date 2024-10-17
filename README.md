@@ -17,11 +17,11 @@
     currently_learning = "Python"
     fun_fact = "Soy malo para el picante"
 	hobbies = [
-				'Musica',
- 			'Boxeo',
-			 	'Video juegos',
-				'Anime'
-			]
+		'Musica',
+ 	'Boxeo',
+		'Video juegos',
+		'Anime'
+	]
 	
 	def getCity():
 		return Bogota_Colombia()
@@ -41,12 +41,10 @@
 <br>
 
 
-| Proyecto web para la ferretería "G&M" | Python de Cero a Seven (Curso) | Tkinter (Fundamentos) |
-| ------------------------------------- | ------------------------------ | --------------------- |
-| <div align="center"> <img src="https://github.com/SevenBigBang/COSAS/blob/main/Ferreteria-G_M-y-1-p%C3%A1gina-m%C3%A1s-Perfil-1_-Microsoft_-Edge-2024-05-20-17-01-55.gif" alt="GIF" width="300"> </div> | <div align="center"> <img src="https://github.com/SevenBigBang/COSAS/blob/main/De%20cero%20a%20seven.png" alt="img" width="300"> </div> | <div align="center"> <img src="https://github.com/SevenBigBang/COSAS/blob/main/Calculadora.gif" alt="img" width="300"> </div> |
-| <div align="center"> <a href="https://github.com/SevenBigBang/ferreteria_gym" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="icon" width="60"> </a> </div> | <div align="center"> <a href="https://github.com/SevenBigBang/CursoPython" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="icon" width="60"> </a> </div> | <div align="center"> <a href="https://github.com/SevenBigBang/TkinterFundamentos/tree/main/Tkinter%20-%20Fundamentos" target="_blank"><img src="https://github.com/SevenBigBang/COSAS/blob/main/tkinter%20(2).png" alt="icon" width="60"> </a> </div> |
-
-
+| Proyecto web para la ferretería "G&M" | Python de Cero a Seven (Curso) | Tkinter (Fundamentos) | FastAPI - Berserk |
+| ------------------------------------- | ------------------------------ | --------------------- | ----------------- |
+| <div align="center"> <img src="https://github.com/SevenBigBang/COSAS/blob/main/Ferreteria-G_M-y-1-p%C3%A1gina-m%C3%A1s-Perfil-1_-Microsoft_-Edge-2024-05-20-17-01-55.gif" width="300"> </div> | <div align="center"> <img src="https://github.com/SevenBigBang/COSAS/blob/main/De%20cero%20a%20seven.png" width="300"> </div> | <div align="center"> <img src="https://github.com/SevenBigBang/COSAS/blob/main/Calculadora.gif" alt="img" width="300"> </div> | <div align="center"> <img src="https://github.com/SevenBigBang/COSAS/blob/main/fastapiberserk.png" alt="Berserk FastAPI" width="300"> </div> |
+| <div align="center"> <a href="https://github.com/SevenBigBang/ferreteria_gym" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="icon" width="60"> </a> </div> | <div align="center"> <a href="https://github.com/SevenBigBang/CursoPython" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="icon" width="60"> </a> </div> | <div align="center"> <a href="https://github.com/SevenBigBang/TkinterFundamentos/tree/main/Tkinter%20-%20Fundamentos" target="_blank"><img src="https://github.com/SevenBigBang/COSAS/blob/main/tkinter%20(2).png" alt="icon" width="60"> </a> </div> | <div align="center"> <a href="https://github.com/SevenBigBang/BerserkFastAPI" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" alt="icon" width="60"> </a> </div> |
 
 
 
@@ -64,7 +62,7 @@
 ## Frameworks y Librerias
 <p>
    <a href="#"><img alt="Bootstrap" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" heigth="50px" width="50px"></a>
-
+   <a href="#"><img alt="Bootstrap" src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" heigth="50px" width="50px"></a>
 </p>
 
 <br>
